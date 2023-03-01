@@ -1,3 +1,1 @@
-My testing read me
-still testing
-The final test
+I have passed the test
